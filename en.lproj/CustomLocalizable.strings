@@ -1,0 +1,8 @@
+/* 
+  CustomLocalizable.strings
+  tips_localizedString
+
+  Created by Danny Lin on 13/5/29.
+  Copyright (c) 2013年 Danny Lin. All rights reserved.
+*/
+"Hello" = "Hello Danny CustomLocalizable";
